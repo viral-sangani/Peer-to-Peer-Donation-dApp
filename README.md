@@ -8,4 +8,4 @@ https://decentragram.vercel.app/
 
 [Metamask](https://metamask.io/) is required to use this website. 
 
-Once you hace Metamask, connect to [Matic Mumbai TestNet](https://docs.matic.network/docs/develop/metamask/testnet/) to use the Decentragram.
+Once you have Metamask, connect to [Matic Mumbai TestNet](https://docs.matic.network/docs/develop/metamask/testnet/) to use the Decentragram.
